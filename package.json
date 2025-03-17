@@ -1,0 +1,16 @@
+﻿{
+  "author": "Secret Place Studio",
+  "name": "sp.sframework.conditions",
+  "displayName": "SF Conditions",
+  "version": "0.1.0",
+  "unity": "2019.4",
+  "description": "Configs Module",
+  "keywords": [
+    "configs",
+    "sframework",
+    "di"
+  ],
+  "category": "SFramework",
+  "dependencies": {},
+  "type": "library"
+}
