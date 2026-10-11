@@ -2,8 +2,6 @@
 
 # SF Conditions
 
-[Documentation website](https://docs.secretplace.studio/#sf-conditions)
-
 ![Package](https://img.shields.io/badge/UPM-sp.sframework.conditions-5865f2) ![Version](https://img.shields.io/badge/version-0.1.0-5865f2)
 
 SF Conditions defines Boolean condition objects, array evaluation helpers, and a Newtonsoft.Json converter for polymorphic conditions. Use it to describe rules in JSON and evaluate them through a shared `Met()` contract.
