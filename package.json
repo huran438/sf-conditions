@@ -3,7 +3,7 @@
   "name": "sp.sframework.conditions",
   "displayName": "SF Conditions",
   "version": "0.1.0",
-  "unity": "2019.4",
+  "unity": "6000.0",
   "description": "Configs Module",
   "keywords": [
     "configs",
@@ -11,6 +11,9 @@
     "di"
   ],
   "category": "SFramework",
-  "dependencies": {},
+  "dependencies": {
+    "sp.sframework.core": "0.2.0",
+    "com.unity.nuget.newtonsoft-json": "3.2.2"
+  },
   "type": "library"
 }
